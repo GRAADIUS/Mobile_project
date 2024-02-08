@@ -14,11 +14,11 @@ namespace Mobile_project
     {
         List<ContentPage> Pages = new List<ContentPage>()
         {
-            new Entry_page(), new Time_page(), new ViewBox_page(), new date_time_page(), new Stepper_slider_page()
+            new Entry_page(), new Time_page(), new ViewBox_page(), new date_time_page(), new Stepper_slider_page(), new lumememm()
         };
         List<string> texts = new List<string>()
         {
-            "Entry leht", "Time leht", "ViewBox leht", "Clicker leht", "Date and time page", "Stepper and slider page"
+            "Entry leht", "Time leht", "ViewBox leht", "Clicker leht", "Date and time page", "Stepper and slider page", "Lumememm page"
         };
         StackLayout st;
         public Start_page_2()
